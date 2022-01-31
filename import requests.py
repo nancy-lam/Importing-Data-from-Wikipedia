@@ -38,15 +38,62 @@ df = pd.DataFrame()
 df['Country'] = countries_name
 print(df)
 
-           Country
-0            Russia
-1   European Russia
-2              None
-3             China
-4            Taiwan
-..              ...
-71       Gaza Strip
-72           Brunei
-73          Bahrain
-74        Singapore
-75         Maldives
+    Country
+0 	Russia
+1 	China
+2 	Hong Kong
+3 	Macau
+4 	India
+5 	None
+6 	Kazakhstan
+7 	Saudi Arabia
+8 	Iran
+9 	Mongolia
+10 	Indonesia
+11 	Pakistan
+12 	Gilgit-Baltistan
+13 	Azad Kashmir
+14 	Turkey
+15 	Myanmar
+16 	Afghanistan
+17 	Yemen
+18 	Thailand
+19 	Turkmenistan
+20 	Uzbekistan
+21 	Iraq
+22 	Japan
+23 	Vietnam
+24 	Malaysia
+25 	Oman
+26 	Philippines
+27 	Laos
+28 	Kyrgyzstan
+29 	Syria
+30 	Golan Heights
+31 	Cambodia
+32 	Bangladesh
+33 	Nepal
+34 	Tajikistan
+35 	North Korea
+36 	South Korea
+37 	Jordan
+38 	Azerbaijan
+39 	United Arab Emirates
+40 	Georgia (country)
+41 	Sri Lanka
+42 	Egypt
+43 	Bhutan
+44 	Taiwan
+45 	Armenia
+46 	Israel
+47 	Kuwait
+48 	East Timor
+49 	Qatar
+50 	Lebanon
+51 	Cyprus
+52 	Northern Cyprus
+53 	State of Palestine
+54 	Brunei
+55 	Bahrain
+56 	Singapore
+57 	Maldives
